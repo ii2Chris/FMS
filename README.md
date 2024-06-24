@@ -53,10 +53,6 @@ FinanceManager/
 - Generate reports that summarize spending income
 - Provide insights into spending trends and financial health
 - Format and present transaction data
-#### <u>File-Manager Class</u>: Manages reading and writing data to files.
-- Reader user and transaction data from files during startup
-- Write user and transaction data to files
-- Ensure data integrity and security
 ### **Main Application Flow**
 - User registration/login.
 - Transaction management (add, view, delete).
